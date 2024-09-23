@@ -37,7 +37,7 @@ Track of your trades in Trade Journal
 
 - [Tetris 3D](https://github.com/avtorgenii/Tetris): Small top-down 3D Tetris game written in C++ on Unreal Engine 4 to train my programming skills in UE4 custom C++
 
-- [Zen's Hook](https://www.youtube.com/watch?v=eUib09pfA74&t=1s): Complete Android hardcore side-scroller platform game, initially was published to Play Market, currently down because I didn't update it for a while
+- [Zen's Hook](https://www.youtube.com/watch?v=eUib09pfA74&t=1s): Complete Android hardcore side-scroller platform game, initially was published to Play Market, currently down because I didn't update it for a while. Created on Unreal Engine 4 with pure Blueprints
 
 ## 🌐 How to Reach Me
 
