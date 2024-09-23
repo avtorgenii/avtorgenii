@@ -1,4 +1,4 @@
-# Hello, I'm Aleksandr!👋
+# Hello, I'm Aleks!👋
 
 I'm a third-year university student pursuing a degree in Applied Computer Science. Enthusiastic developer with a passion for building engaging and creative projects. 🐍
 
