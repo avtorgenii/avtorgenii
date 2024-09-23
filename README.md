@@ -6,7 +6,7 @@ I'm a third-year university student pursuing a degree in Applied Computer Scienc
 
 ## 🚀 Quick Overview
 
-- 🔭 I'm currently working on a web-app Trading-Buddy that helps me in placing and controlling my orders semi-automatically and tracking all my trades in database
+- 🔭 I'm currently working on a web-app Trading-Buddy that helps me semi-automatically in placing and controlling my orders and tracking all my trades in database
 - 🌱 I'm learning more about Data Science and data manipulation, visualization with SQL and Tableau
 
 ## 🛠️ Skills
@@ -43,7 +43,7 @@ Track of your trades in Trade Journal
 
 ## 🤝 Looking for Opportunities
 
-I'm actively seeking challenging internships and opportunities to apply my Python skills and gain valuable experience. If you have an opportunity that aligns with my interests, feel free to reach out. I'm excited to connect with you!
+I'm actively seeking challenging internships and opportunities to apply my coding skills and gain valuable experience. If you have an opportunity that aligns with my interests, feel free to reach out.
 
 ---
 
